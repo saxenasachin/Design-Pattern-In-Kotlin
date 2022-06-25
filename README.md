@@ -25,32 +25,6 @@ some super useful links to get the learning materials that I personally recommen
 - [Kotlin Lang](https://kotlinlang.org/docs/getting-started.html)
 - [Kotlin Bootcamp](https://developer.android.com/codelabs/kotlin-bootcamp-introduction)
 
-# This repository includes
-
-<!-- * [Creational-Patterns](#Creational-Patterns)
-    * [Singleton](#Singleton)
-    * [Factory](#Factory)
-    * [Abstract Factory](#Abstract-Factory)
-    * [Builder](#Builder)
-    * [Lazy Initialization](#Lazy-Initialization)
-    * [Prototype](#Prototype) -->
-* [Structural-Patterns](#Structural-Patterns)
-<!--     * [Adapter](#Adapter)
-    * [Bridge](#Bridge)
-    * [Facade](#Facade)
-    * [Decorator](#Decorator) -->
-    * [Composite](#Composite)
-    * [Proxy](#Proxy)
-* [Behavioral-Patterns](#Behavioral-Patterns)
-    * [Observer](#Observer)
-<!--     * [Chain-of-Responsibility](#Chain-of-Responsibility)
-    * [Command](#Command)
-    * [Strategy](#Strategy)
-    * [State](#State)
-    * [Visitor](#Visitor)
-    * [Mediator](#Mediator)
-    * [Memento](#Memento) -->
-
 There are mainly three types of design patterns.
 
 #### Creational

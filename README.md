@@ -24,3 +24,22 @@ some super useful links to get the learning materials that I personally recommen
 - [Kotlin-depth-Vol-II](https://www.amazon.com/Kotlin-depth-Vol-II-comprehensive-multi-paradigm/dp/9389423228)
 - [Kotlin Lang](https://kotlinlang.org/docs/getting-started.html)
 - [Kotlin Bootcamp](https://developer.android.com/codelabs/kotlin-bootcamp-introduction)
+
+There are mainly three types of design patterns.
+
+#### Creational
+
+This pattern gives us a heads-up on how we create the objects on demand. They provide various object creation
+mechanisms, which increase flexibility and reuse of existing code.
+
+#### Structural
+
+This pattern gives us an idea on how various objects and components in our application relates to each other. This also
+explains how to assemble objects and classes into larger structures while keeping these structures flexible and
+efficient. This can also help you achieve some good objectives like separation-of-concerns, scalability,
+testability...etc.
+
+#### Behavioural Pattern
+
+This pattern gives more emphasis on how an object function inside your code. They are more concerned with algorithms and
+the assignment of responsibilities between objects.
